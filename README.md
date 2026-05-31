@@ -1,2 +1,2 @@
-# python learning
-Python exercises as I learn the basics
+# python programming language
+Python exercises as i leran python language
