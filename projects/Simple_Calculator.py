@@ -21,10 +21,18 @@ elif operation == "/":
         print(a/b)
       
 elif operation == "//":
-    print(a//b)
+
+    if b == 0:
+        print("Error: Cannot divide by zero!")
+    else:
+        print(a//b)
   
 elif operation == "%":
-    print(a%b)
+
+    if b == 0:
+        print("Error: Cannot divide by zero")
+    else:
+        print(a%b)
   
 else:
     print("Invalid Operation")
