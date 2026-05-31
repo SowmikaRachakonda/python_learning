@@ -30,7 +30,7 @@ elif operation == "//":
 elif operation == "%":
 
     if b == 0:
-        print("Error: Cannot divide by zero")
+        print("Error: Cannot divide by zero!")
     else:
         print(a%b)
   
