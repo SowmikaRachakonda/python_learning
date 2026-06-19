@@ -1,3 +1,3 @@
 # python programming language
-Python exercises as I leran python language
+Python exercises as I learnn python language
 
